@@ -15,8 +15,8 @@
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
     Mach-O disassembler and analyzer binaries (32 & 64 bits). It is powered
-    by the Capstone Engine Framework. It currently is in development and some
-    of its functionalities may be buggy. Its been updated to a more complex
-    and complete application. The implementation of the interpreter is not
-    complete, but you can use the main and basic funciontalities of the application.
+    by the Capstone Engine Framework.
     
+    Shwass is currently being developed and a new version will be published
+    very soon. New features and functionalities will make shwass a very good
+    choice for reverse engineering binaries.
